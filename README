@@ -1,0 +1,4 @@
+This is meant to autogenerate a terrain and then display a 3d model
+The display currently uses matplotlib
+to run
+diamondSquare.py -n [size(form:2^n+1)] -v [height varience] -s [seed optional]
